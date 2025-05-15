@@ -1,4 +1,4 @@
-# 🚀 AutoFarm Script for Roblox: Build A Boat For Treasure
+# 🚀 AutoFarm Script for Roblox: Build A Boat For Treasure (OPENSOURCE)
 
 Welcome to the **AutoFarm** script for the popular Roblox game **Build A Boat For Treasure**!
 
